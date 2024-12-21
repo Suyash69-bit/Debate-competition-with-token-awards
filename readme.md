@@ -14,6 +14,8 @@ This smart contract supports:
 
 ## Contract Address
 0x3481685bf531278e03046862E3Fb03aC200A4f6a
+![image](https://github.com/user-attachments/assets/ffc05e19-8306-4c3e-b5a8-403d69e1452b)
+
 
 
 ## Project Vision
@@ -51,7 +53,7 @@ By using blockchain technology, the system removes middlemen, making it fully tr
    The contract ensures that only the owner can perform these critical operations to ensure control and fair distribution of rewards.
 
 
-### 7. Future Enhancements
+##   Future Enhancements
    - Leaderboard System: Implement a leaderboard to track the top debaters based on cumulative scores.
    - Voting Mechanism: Introduce a community voting system to allow other participants or users to vote on debate quality, which could influence the final score.
    - Multicurrency Support: Add the option to reward users in different tokens (e.g., stablecoins, NFTs).
